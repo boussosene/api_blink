@@ -1,5 +1,5 @@
 <?php function connect_db() {
-	$server = 'localhost'; // this may be an ip address instead
+	$server = 'localhost'; 
 	$user = 'root';
 	$pass = 'root';
 	$database = 'baseblink';
